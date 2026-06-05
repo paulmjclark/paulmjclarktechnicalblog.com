@@ -1,0 +1,5 @@
+Contact: mailto:security@paulmjclarktechnicalblog.com
+Expires: 2026-12-31T23:59:59Z
+Preferred-Languages: en
+Canonical: https://paulmjclarktechnicalblog.com/.well-known/security.txt
+Policy: https://paulmjclarktechnicalblog.com/security-policy
